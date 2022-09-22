@@ -1,0 +1,17 @@
+body {
+    background-image:url("upsidedown.jpg");
+    font-size: 20px;
+    font-weight: 300;
+    color:red;
+}
+
+.buttonMaster {
+    width: 200px;
+    height: 90px;
+    background-color: red;
+    border-radius: 20px;
+    border-color:darkred;
+    font-family : Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    
+}
